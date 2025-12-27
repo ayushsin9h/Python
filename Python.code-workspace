@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../Cpp"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp"
+		}
+	}
+}
